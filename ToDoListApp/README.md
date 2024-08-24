@@ -1,0 +1,1 @@
+The To-Do-List Application is a simple console-based Java program that allows users to add tasks, remove tasks, mark tasks as completed, and view all tasks. It's designed to manage your to-do-list effectively.

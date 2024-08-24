@@ -1,0 +1,9 @@
+# Java build files
+/bin/
+/build/
+
+# IDE-specific files
+.classpath
+.project
+.settings/
+
